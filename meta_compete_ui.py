@@ -4,7 +4,7 @@ import pandas as pd
 import re
 import nltk
 from nltk.corpus import stopwords
-import google.generativeai as genai # type: ignore
+import google.generativeai as genai
 from dotenv import load_dotenv
 import os
 
