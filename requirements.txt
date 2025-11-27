@@ -2,5 +2,5 @@ streamlit
 pandas
 nltk
 google-generativeai
-scikit-learn
+scikit-learn==1.6.1
 python-dotenv
