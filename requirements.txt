@@ -3,5 +3,4 @@ pandas
 nltk
 python-dotenv
 scikit-learn
-# ADD or ensure this line is present:
 google-genai
