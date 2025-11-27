@@ -1,6 +1,7 @@
 streamlit
 pandas
 nltk
-google-genai # This is the correct package name for 'google.generativeai'
 python-dotenv
-scikit-learn # Assume this is needed for 'model.predict'
+scikit-learn
+# ADD or ensure this line is present:
+google-genai
